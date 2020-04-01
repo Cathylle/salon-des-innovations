@@ -296,8 +296,6 @@ function scroll(){
 	let ticketpresseforscroll = $('#ticketpresseforscroll').getBoundingClientRect();
 	let confSmallBox = $('#confSmallBox').getBoundingClientRect();
 	let confBigBox = $('#confBigBox').getBoundingClientRect();
-	// mynav
-	categorieanim
 
 
 	if(apos.top < window.innerHeight && apos.bottom >= 0) {
