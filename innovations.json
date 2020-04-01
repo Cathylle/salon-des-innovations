@@ -1,0 +1,216 @@
+[
+    {   "id" :"1",
+        "categorie":"Construction",
+        "innovation" : "Corten",
+        "description" : "Des dalles de jardin en acier Corten",
+        "entreprise" : "Atelier Degueldre Eric SPRL",
+        "innovateur" : "Eric Degueldre",
+        "rue" : "Rue Chaumont, 8 B",
+        "localite":"4480 Engis",
+        "pays":"Belgique",
+        "telephone":" 085/41.21.23",
+        "site":"https://korx.be/",
+        "mail":"info@korx.be",
+        "miniature":"https://picsum.photos/id/14/250/80",
+        "photos" : [
+            {"src":"https://picsum.photos/id/80/350/280",
+            "alt":"une image",
+            "titre":"C'est l'image de Corten"
+            },
+            {"src":"https://picsum.photos/id/42/350/280",
+            "alt":"une autre image",
+            "titre":"C'est l'autre image de Corten"
+            },
+            {"src":"https://picsum.photos/id/18/350/280",
+                "alt":"une autre image",
+                "titre":"C'est l'autre image de Corten"
+                } 
+        ],
+        "article":" <span> Contexte </span> </br> Pour concevoir des chemins qui traversent vos jardins et qui résistent à l’usure du temps, des travaux préalables à la pose des matériaux sont évidemment nécessaires. On doit par exemple creuser la surface sur 20 cm de profondeur, étendre quelques cm d’un mélange avec des graviers qui, en durcissant, serviront de stabilisant pour éviter que le chemin ne s’affaisse au fil des années. C’est qu’une fois cette étape franchie, que l’on pose les pavés, par exemple, sur un mélange sable de Rhin/ciment. Et si on pouvait éviter tout cela tout en s’offrant des chemins bien stables et originaux ? </br> <span> Innovation présentée </span> </br>  L’innovation Les ateliers Degueldre ont développé des chemins modulables composés de dalles dont le système d’emboitement, basé sur des griffes d’ancrage, a fait l’objet d’une demande de brevet. Un système original qui permet d’ancrer parfaitement le chemin au sol et de relier les dalle entre elles. Plus besoin de terrassement, la pose se fait directement au sol. Développées sous la marque Kor-x, ces dalles sont entièrement conçues à Liège. L’une de leurs particularités, c’est qu’elles sont réalisées en acier Corten, cinq à dix fois plus résistant à la corrosion qu’un acier normal grâce à une patine protectrice sur la surface.Ces chemins métalliques à la couleur originale et moderne suivent parfaitement le relief du terrain. Il ne faut pas plus de deux heures pour installer dix mètres de chemin. Utilisables directement après installation, ils ne demandent aucun entretien. Des chemins, également disponibles en bois avec support inox, qui ont une très longue durée de vie : on estime que les dalles perdent un dixième à deux dixièmes de millimètres de matière… tous les dix ans.",
+        "lien":"innovation.html?id=1"
+    },
+    {   "id" :"2",
+        "categorie":"Environnement",
+        "innovation" : "Caviaros",
+        "description" : "Un caviar de grillons bio, éco-responsable et 100% belge",
+        "entreprise" : "World of Cricket , WOC ",
+        "innovateur" : "Jean-Philippe Draye ",
+        "rue" : "18, rue de Bawtia",
+        "localite":"5081 La Bruyère",
+        "pays":"Belgique",
+        "telephone":"0474/356.435 ",
+        "site":"https://www.facebook.com/World-of-Cricket",
+        "mail":"info@korx.be",
+        "miniature":"https://picsum.photos/id/75/350/280",
+        "photos" : [
+            {"src":"https://picsum.photos/id/70/350/280",
+            "alt":"une image",
+            "titre":"C'est l'image de korx"
+            },
+            {"src":"https://picsum.photos/id/64/350/280",
+            "alt":"une autre image",
+            "titre":"C'est l'autre image de korx"
+            }   
+        ],
+        "article":"<span> Contexte </span> </br> On le sait, l'alimentation à base d'insectes pourrait bien se généraliser au cours des prochaines décennies. L'Organisation des Nations Unies pour l'alimentation et l'agriculture (FAO) s'est prononcée en faveur du développement de l'élevage de petites bêtes à grande échelle pour parvenir à nourrir plus de 9 milliards d'êtres humains d'ici à 2030. En Belgique, l’AFSCA tolère l’élevage d’une dizaine d’insectes dont le grillon domestique (Acheta domestica) : une vraie bombe de protéines qui permet de faire le plein de minéraux comme le calcium, le magnésium, le fer ou encore le phosphore. Il contient aussi d'importantes quantités de fibres. Ce qui en fait un aliment sain pauvre en matière grasse. </br> <span> Innovation présentée </span> </br>  L’innovation Jean-Philippe Draye a fait ses armes à la Bergerie de Lives avant de cuisiner à l’étranger, en Grande-Bretagne et en France. C’est lors de déplacements à l'étranger qu’il découvrira la nourriture à base d’insectes. De retour en Belgique en novembre 2018, il va se lancer dans la production de caviar de grillons. En partenariat avec une ferme bruxelloise qui lui assure une production de 4 à 5 tonnes de grillons tous les mois, en condition contrôlée et nourris avec une alimentation biologique certifiée, il a mis au point un procédé – gardé secret – qui lui permet d’extraire le jus du grillon et de le transformer en petites sphères, lui donnant l’aspect d’un caviar. Puisque la carcasse a été mise de côté, le goût du caviar de grillon s’approche désormais plutôt de celui du champignon. Jean-Philippe Draye propose ensuite plusieurs déclinaisons de saveurs comme le caviar à la menthe, à la coriandre, piment citronnelle et bien d’autres … L’entreprise de Jean-Philippe Draye, World of Cricket, produit un WOC Caviar qui, après un dernier contrôle qualité, est prêt à être dégusté par les amateurs.",
+        "lien":"innovation.html?id=2"
+    },
+    {   "id" :"3",
+        "categorie":"Agroalimentaire",
+        "innovation" : "Eclairaton",
+        "description" : "Un éclairage autonome et écologique de haute puissance ",
+        "entreprise" : "MIDEO S.A.",
+        "innovateur" : "Marc SZCZERBAK",
+        "rue" : "17, chaussée de Beaumont",
+        "localite":"7000 Mons",
+        "pays": "Belgique",
+        "telephone":"0474/356.435 ",
+        "site":"http://www.mideo.be",
+        "mail":"marc.szczerbak@mideo.be",
+        "miniature":"https://picsum.photos/id/74/350/280",
+        "photos" : [
+            {"src":"https://picsum.photos/id/21/350/280",
+            "alt":"une image",
+            "titre":"C'est l'image de Eclairaton"
+            },
+            {"src":"https://picsum.photos/id/12/350/280",
+            "alt":"une autre image",
+            "titre":"C'est l'autre image de Eclaraton"
+            } 
+        ],
+        "article":"<span> Contexte </span> </br> En Belgique, pour installer un éclairage industriel de puissance, le réflexe est de creuser, enfouir des câbles, poser des pylônes et raccorder le tout au réseau électrique. Et si on pouvait s’en sortir autrement ? </br> <span> Innovation présentée </span> </br>  L’innovation Pour permettre l’éclairage d’un quai fluvial, MIDEO a développé un éclairage autonome photovoltaïque de grande puissance. Son utilisation ne génère pas le moindre gramme de CO2 grâce à la conversion de l’énergie solaire en énergie électrique. Cette énergie est gratuite. L’éclairage étant autonome, la liaison à un fournisseur d’énergie est inutile et son coût d’utilisation est nul. Par ailleurs, les coûts importants de creusement de tranchées et de câblages sont eux aussi inutiles, ce qui permet par ailleurs aux sites de rester intacts, sans travaux lourds. Le fonctionnement de l’éclairage est programmable, avec un éclairement modulable et une détection de présence qui lui confère une utilisation intelligente et rationnelle de l’éclairage. L’énergie solaire est convertie et stockée dans des batteries. La gestion de ce stockage électrique est optimisée par son informatique embarquée tout comme son utilisation par des leds de haute puissance et à très haut rendement. Le flux lumineux de cet éclairage atteint une valeur de 24000 lumens tout en étant modulable en fonction des besoins du client. Il permet d’éclairer une surface de près de 1000m². L’autonomie sans soleil est de 30 nuits (surtout pour la période d’hiver en Belgique où la nuit dure jusque 16h). Il est programmable et est connectable par Lifi (le wifi par la lumière).",
+        "lien":"innovation.html?id=3"
+    },
+    {   "id" :"4",
+        "categorie":"Logistique",
+        "innovation" : "SkyLiberty",
+        "description" : "Une solution d'aide à la décision pour pilotes et marins",
+        "entreprise" : "ESNAH sprl",
+        "innovateur" : "Aurélie Simon",
+        "rue" : "Rue du Commerce, 19",
+        "localite":"6900 Marche-en-Famenne",
+        "pays":"Belgique",
+        "telephone":"0494 86 38 17",
+        "site":"http://www.esnah.com",
+        "mail":"aurelie.simon@esnah.com",
+        "miniature":"https://picsum.photos/id/4/350/280",
+        "photos" : [
+            {"src":"https://picsum.photos/id/6/350/280",
+            "alt":"une image",
+            "titre":"C'est l'image de Esnah"
+            },
+            {"src":"https://picsum.photos/id/8/350/280",
+            "alt":"une autre image",
+            "titre":"C'est l'autre image de Esnah"
+            } 
+        ],
+        "article":" <span> Contexte </span> </br> Pour concevoir des chemins qui traversent vos jardins et qui résistent à l’usure du temps, des travaux préalables à la pose des matériaux sont évidemment nécessaires. On doit par exemple creuser la surface sur 20 cm de profondeur, étendre quelques cm d’un mélange avec des graviers qui, en durcissant, serviront de stabilisant pour éviter que le chemin ne s’affaisse au fil des années. C’est qu’une fois cette étape franchie, que l’on pose les pavés, par exemple, sur un mélange sable de Rhin/ciment. Et si on pouvait éviter tout cela tout en s’offrant des chemins bien stables et originaux ? </br> <span> Innovation présentée </span> </br>  L’innovation Les ateliers Degueldre ont développé des chemins modulables composés de dalles dont le système d’emboitement, basé sur des griffes d’ancrage, a fait l’objet d’une demande de brevet. Un système original qui permet d’ancrer parfaitement le chemin au sol et de relier les dalle entre elles. Plus besoin de terrassement, la pose se fait directement au sol. Développées sous la marque Kor-x, ces dalles sont entièrement conçues à Liège. L’une de leurs particularités, c’est qu’elles sont réalisées en acier Corten, cinq à dix fois plus résistant à la corrosion qu’un acier normal grâce à une patine protectrice sur la surface.Ces chemins métalliques à la couleur originale et moderne suivent parfaitement le relief du terrain. Il ne faut pas plus de deux heures pour installer dix mètres de chemin. Utilisables directement après installation, ils ne demandent aucun entretien. Des chemins, également disponibles en bois avec support inox, qui ont une très longue durée de vie : on estime que les dalles perdent un dixième à deux dixièmes de millimètres de matière… tous les dix ans.",
+        "lien":"innovation.html?id=4"
+    },
+    {   "id" :"5",
+        "categorie":"Logistique",
+        "innovation" : "SIMOGGA Analytics",
+        "description" : "Un logiciel de visualisation, quantification et optimisation dédié aux entrepôts",
+        "entreprise" : "AMIA Systems S.A. ",
+        "innovateur" : "Emmanuelle VIN",
+        "rue" : "Rue Auguste Piccard, 48",
+        "localite":"6041 Gosselies",
+        "pays":"Belgique",
+        "telephone":" +32 479.727.905 ",
+        "site":"http://www.amia-systems.com",
+        "mail":"evin@amia-systems.com",
+        "miniature":"https://picsum.photos/id/95/350/280",
+        "photos" : [
+            {"src":"https://picsum.photos/id/59/350/280",
+            "alt":"une image",
+            "titre":"C'est l'image de Corten"
+            },
+            {"src":"https://picsum.photos/id/95/350/280",
+            "alt":"une autre image",
+            "titre":"C'est l'autre image de Corten"
+            } 
+        ],
+        "article":"<span> Contexte </span> </br>  Contexte La demande en surface d’entreposage explose dans notre pays. Selon la Banque Mondiale, notre pays est d’ailleurs à la 3e place des pays les plus performants au monde en matière de logistique. L'arrivée de l’e-commerce et la mondialisation de l’économie a boosté ce secteur ces dernières années : la Banque Nationale vient d’ailleurs de chiffrer à 18 milliards d’euros la valeur générée par cette activité en Belgique. </br> <span> Innovation présentée </span> </br>  L’innovation proposée Optimiser ces surfaces est donc un défi de tous les jours. En particulier dans les entreprises industrielles où, selon plusieurs études, la plupart d'entre elles possèdent un espace de stockage régulièrement vide à 30%. Les technologies numériques ont permis de nombreuses améliorations sur le terrain et la traçabilité permet d’identifier toutes les transactions. Mais analyser toutes ces données reste cependant complexe. Or, les sources d’améliorations se trouvent précisément dans ces données. AMIA Systems a développé des logiciels permettant de visualiser, quantifier et optimiser les opérations sur les sites, notamment de stockage. Ils permettent d’analyser le flux de produits, d’améliorer ou de définir un nouvel agencement, de mettre en évidence les goulots d’étranglement, d'optimiser l'utilisation des ressources (humaines et matérielles) et de simuler au travers de scénarios de nouvelles stratégies, organisations, gestion des ressources de manière à anticiper les gains et faciliter le processus de décision. SIMOGGA Analytics est dédicacé aux entrepôts. Il permet de représenter de manière visuelle la totalité de transactions de l’entrepôt (picking, mouvement) pour évaluer l’efficacité de ce dernier, suggérer les améliorations possibles, quantifier les gains, réaliser des analyses… Bref de faciliter le travail des responsables logistique. L’amélioration continue passe par des petites améliorations permanentes. SIMOGGA permet de suivre l’évolution des pickings et suggérer périodiquement les zones où placer son énergie pour gagner en efficacité. ",
+        "lien":"innovation.html?id=5"
+    },
+    {   "id" :"6",
+        "categorie":"Quotidienne",
+        "innovation" : "MYDO",
+        "description" : "Des briques de plastique pour décorer son intérieur",
+        "entreprise" : "MYDO Design SA",
+        "innovateur" : "Eric Degueldre",
+        "rue" : "Rue des Vennes, 101",
+        "localite":"4020 Liège",
+        "pays":"Belgique",
+        "telephone":" 085/41.21.23",
+        "site":"http://www.mydo-design.com",
+        "mail":"info@mydo-design.com",
+        "miniature":"https://picsum.photos/id/14/350/280",
+        "photos" : [
+            {"src":"https://picsum.photos/id/80/350/280",
+            "alt":"une image",
+            "titre":"C'est l'image de Corten"
+            },
+            {"src":"https://picsum.photos/id/42/350/280",
+            "alt":"une autre image",
+            "titre":"C'est l'autre image de Corten"
+            } 
+        ],
+        "article":"<span> Contexte </span> </br>A force d’arpenter les rayons de magasins de bricolage et autres grandes surfaces de la décoration, votre maison est plus proche de la page 12 d’un catalogue suédois que de vos envies profondes. Et quand vous visitez le nouveau home sweet home de votre copine, vous déchantez devant les mêmes meubles que chez vous… Le syndrome est fréquent, la banalisation des intérieurs ordinaire. Or, tous les pros de la décoration intérieure s’accordent à le dire, une maison où l’on se sent bien nous ressemble, est singulière et donc différente de celle du voisin. </br> <span> Innovation présentée </span> </br> Créé par une équipe de spécialistes et de consultants des industries créatives liégeoises, MYDO est une sorte de LEGO® dédié à la construction d’objets et meubles de décoration.  Un produit 100% modulaire, design et pratique (montage et démontage sans le moindre outil). Les pièces sont réalisées en plastique injecté, un matériau solide, résistant à l’eau et également recyclable. Et pour rendre le concept innovant, les concepteurs y ont ajouté la possibilité de disposer de blocs de couleurs différentes et d’y intégrer des leds. Les plans proposés sont une base. Chaque utilisateur peut ainsi personnaliser ses objets de décoration en fonction de son intérieur et de ses contraintes, laisser libre cours à sa créativité sans la moindre limite. MyDo est donc un produit facile à monter et à démonter par simple clipsage. Il sera bientôt disponible sur Amazon.",
+        "lien":"innovation.html?id=6"
+    },
+    {   "id" :"7",
+        "categorie":"Environnement",
+        "innovation" : "Waste End",
+        "description" : "Une unité qui transforme les déchets alimentaires en biogaz et en engrais",
+        "entreprise" : "Waste End Factory",
+        "innovateur" : "Lola Brousmiche ",
+        "rue" : "Chaussée de Courcelles 130 Boîte 23",
+        "localite":"6041 Charleroi",
+        "pays":"Belgique",
+        "telephone":"+32.478/81.96.63 ",
+        "site":"http://www.waste-end.com",
+        "mail":"l.brousmiche@waste-end.com",
+        "miniature":"https://picsum.photos/id/63/350/280",
+        "photos" : [
+            {"src":"https://picsum.photos/id/81/350/280",
+            "alt":"une image",
+            "titre":"C'est l'image de Waste End"
+            },
+            {"src":"https://picsum.photos/id/63/350/280",
+            "alt":"une autre image",
+            "titre":"C'est l'autre image de Waste End"
+            } 
+        ],
+        "article":"<span> Contexte </span> </br>130 kilos de denrées alimentaires sont gaspillées chaque seconde en Belgique. La plupart du temps, les restes d'assiettes et les parties des aliments non cuisinées sont jetés, voire bien souvent incinérés avec le reste des déchets non alimentaires. Et si on les valorisait énergétiquement grâce à la biométhanisation ? </br> <span> Innovation présentée </span> </br> Créé par une équipe de spécialistes et de consultants des industries créatives liégeoises, MYDO est une sorte de LEGO® dédié à la construction d’objets et meubles de décoration.  Un produit 100% modulaire, design et pratique (montage et démontage sans le moindre outil). Les pièces sont réalisées en plastique injecté, un matériau solide, résistant à l’eau et également recyclable. Et pour rendre le concept innovant, les concepteurs y ont ajouté la possibilité de disposer de blocs de couleurs différentes et d’y intégrer des leds. Les plans proposés sont une base. Chaque utilisateur peut ainsi personnaliser ses objets de décoration en fonction de son intérieur et de ses contraintes, laisser libre cours à sa créativité sans la moindre limite. MyDo est donc un produit facile à monter et à démonter par simple clipsage. Il sera bientôt disponible sur Amazon.",
+        "lien":"innovation.html?id=7"
+    },
+    {   "id" :"8",
+        "categorie":"Environnement",
+        "innovation" : "Lessive Liquide Laververt",
+        "description" : "Un procédé pour industrialiser des lessives liquides à la cendre",
+        "entreprise" : "JFA SRL",
+        "innovateur" : "Adrien Pierson et Jean-François Eloin",
+        "rue" : "Rue du Tailfer 12",
+        "localite":"5330 Maillen",
+        "pays":"Belgique",
+        "telephone":"0032.476/60 29 93",
+        "site":"http://www.mydo-design.com",
+        "mail":"LaverVert@gmail.com",
+        "miniature":"https://picsum.photos/id/93/350/280",
+        "photos" : [
+            {"src":"https://picsum.photos/id/47/350/280",
+            "alt":"une image",
+            "titre":"C'est l'image de Corten"
+            },
+            {"src":"https://picsum.photos/id/93/350/280",
+            "alt":"une autre image",
+            "titre":"C'est l'autre image de Corten"
+            } 
+        ],
+        "article":"<span> Contexte </span> </br>A chacun sa recette. Mais, depuis l’antiquité, on utilise des cendres pour créer des savons et faire des lessives. Il y a 2500 ans, les sumériens mélangeaient des cendres avec de l’argile et de l’huile végétale pour fabriquer leur pâte à savon. Les égyptiens eux utilisaient le natron - un minéral composé de carbonate de sodium et de bicarbonate de sodium issu de l'évaporation des lacs salés – qu’ils mélangeaient avec des cendres, de l'argile et de l’huile. Quand à nos gaulois, ils fabriquaient du savon à base de cendres de hêtre et du suif de chèvre. Bref une lessive naturelle et peu onéreuse dont nos grands-mères et leurs petits-enfants s’échangent aujourd’hui les recettes.</br> <span> Innovation présentée </span> </br> Créé par une équipe de spécialistes et de consultants des industries créatives liégeoises, MYDO est une sorte de LEGO® dédié à la construction d’objets et meubles de décoration.  Un produit 100% modulaire, design et pratique (montage et démontage sans le moindre outil). Les pièces sont réalisées en plastique injecté, un matériau solide, résistant à l’eau et également recyclable. Et pour rendre le concept innovant, les concepteurs y ont ajouté la possibilité de disposer de blocs de couleurs différentes et d’y intégrer des leds. Les plans proposés sont une base. Chaque utilisateur peut ainsi personnaliser ses objets de décoration en fonction de son intérieur et de ses contraintes, laisser libre cours à sa créativité sans la moindre limite. MyDo est donc un produit facile à monter et à démonter par simple clipsage. Il sera bientôt disponible sur Amazon.",
+        "lien":"innovation.html?id=8"
+    }
+    
+]
+
