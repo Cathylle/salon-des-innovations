@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="150" height="38" viewBox="0 0 150 38">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke-width: 2px;
+        fill: url(#linear-gradient);
+        stroke: url(#linear-gradient-2);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="75" y1="38" x2="75" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fc772b"/>
+      <stop offset="1" stop-color="#fdbd30"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="75" y1="38" x2="75" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fc752b"/>
+      <stop offset="1" stop-color="#fdbd30"/>
+    </linearGradient>
+  </defs>
+  <rect id="Rectangle_arrondi_1" data-name="Rectangle arrondi 1" class="cls-1" width="150" height="38" rx="19" ry="19"/>
+</svg>
