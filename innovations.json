@@ -56,7 +56,7 @@
         "lien":"innovation.html?id=2"
     },
     {   "id" :"3",
-        "categorie":"Agroalimentaire",
+        "categorie":"Logistique",
         "innovation" : "Eclairaton",
         "description" : "Un éclairage autonome et écologique de haute puissance ",
         "entreprise" : "MIDEO S.A.",
@@ -210,7 +210,110 @@
         ],
         "article":"<span> Contexte </span> </br>A chacun sa recette. Mais, depuis l’antiquité, on utilise des cendres pour créer des savons et faire des lessives. Il y a 2500 ans, les sumériens mélangeaient des cendres avec de l’argile et de l’huile végétale pour fabriquer leur pâte à savon. Les égyptiens eux utilisaient le natron - un minéral composé de carbonate de sodium et de bicarbonate de sodium issu de l'évaporation des lacs salés – qu’ils mélangeaient avec des cendres, de l'argile et de l’huile. Quand à nos gaulois, ils fabriquaient du savon à base de cendres de hêtre et du suif de chèvre. Bref une lessive naturelle et peu onéreuse dont nos grands-mères et leurs petits-enfants s’échangent aujourd’hui les recettes.</br> <span> Innovation présentée </span> </br> Créé par une équipe de spécialistes et de consultants des industries créatives liégeoises, MYDO est une sorte de LEGO® dédié à la construction d’objets et meubles de décoration.  Un produit 100% modulaire, design et pratique (montage et démontage sans le moindre outil). Les pièces sont réalisées en plastique injecté, un matériau solide, résistant à l’eau et également recyclable. Et pour rendre le concept innovant, les concepteurs y ont ajouté la possibilité de disposer de blocs de couleurs différentes et d’y intégrer des leds. Les plans proposés sont une base. Chaque utilisateur peut ainsi personnaliser ses objets de décoration en fonction de son intérieur et de ses contraintes, laisser libre cours à sa créativité sans la moindre limite. MyDo est donc un produit facile à monter et à démonter par simple clipsage. Il sera bientôt disponible sur Amazon.",
         "lien":"innovation.html?id=8"
+    },
+    {   "id" :"9",
+        "categorie":"Agroalimentaire",
+        "innovation" : "Good Move",
+        "description" : "Des jus pasteurisés à froid dans des emballages biodégradables ",
+        "entreprise" : "ELBY SPRL",
+        "innovateur" : "Adrien Pierson et Jean-François Eloin",
+        "rue" : "Rue Jean Joseph Piret, 146",
+        "localite":"6280 Gerpinnes",
+        "pays":"Belgique",
+        "telephone":"0473/72.34.58",
+        "site":"http://www.goodmovejuice.be",
+        "mail":"lucas.vandierendonck@gmail.com",
+        "miniature":"https://picsum.photos/id/55/350/280",
+        "photos" : [
+            {"src":"https://picsum.photos/id/55/350/280",
+            "alt":"une image",
+            "titre":"C'est l'image de Good Move"
+            },
+            {"src":"https://picsum.photos/id/77/350/280",
+            "alt":"une autre image",
+            "titre":"C'est l'autre image de Good Move"
+            } 
+        ],
+        "article":"<span> Contexte </span> </br>A chacun sa recette. Mais, depuis l’antiquité, on utilise des cendres pour créer des savons et faire des lessives. Il y a 2500 ans, les sumériens mélangeaient des cendres avec de l’argile et de l’huile végétale pour fabriquer leur pâte à savon. Les égyptiens eux utilisaient le natron - un minéral composé de carbonate de sodium et de bicarbonate de sodium issu de l'évaporation des lacs salés – qu’ils mélangeaient avec des cendres, de l'argile et de l’huile. Quand à nos gaulois, ils fabriquaient du savon à base de cendres de hêtre et du suif de chèvre. Bref une lessive naturelle et peu onéreuse dont nos grands-mères et leurs petits-enfants s’échangent aujourd’hui les recettes.</br> <span> Innovation présentée </span> </br> Créé par une équipe de spécialistes et de consultants des industries créatives liégeoises, MYDO est une sorte de LEGO® dédié à la construction d’objets et meubles de décoration.  Un produit 100% modulaire, design et pratique (montage et démontage sans le moindre outil). Les pièces sont réalisées en plastique injecté, un matériau solide, résistant à l’eau et également recyclable. Et pour rendre le concept innovant, les concepteurs y ont ajouté la possibilité de disposer de blocs de couleurs différentes et d’y intégrer des leds. Les plans proposés sont une base. Chaque utilisateur peut ainsi personnaliser ses objets de décoration en fonction de son intérieur et de ses contraintes, laisser libre cours à sa créativité sans la moindre limite. MyDo est donc un produit facile à monter et à démonter par simple clipsage. Il sera bientôt disponible sur Amazon.",
+        "lien":"innovation.html?id=9"
+    },
+    {   "id" :"10",
+        "categorie":"Industrie",
+        "innovation" : "Monocal",
+        "description" : "Nouveaux revêtements de surfaces pour des applications médicales",
+        "entreprise" : "X4C SA",
+        "innovateur" : "Mattiuzzi Alice ",
+        "rue" : "Rue Chêne Bonnet, 128",
+        "localite":"6110 Montigny-le-Tilleul",
+        "pays":"Belgique",
+        "telephone":"02/650.24.74 ",
+        "site":"http://www.x4c.eu/",
+        "mail":"amattiuzzi@x4c.eu",
+        "miniature":"https://picsum.photos/id/17/350/280",
+        "photos" : [
+            {"src":"https://picsum.photos/id/17/350/280",
+            "alt":"une image",
+            "titre":"C'est l'image de Monocal"
+            },
+            {"src":"https://picsum.photos/id/28/350/280",
+            "alt":"une autre image",
+            "titre":"C'est l'autre image de Monocal"
+            } 
+        ],
+        "article":"<span> Contexte </span> </br>A chacun sa recette. Mais, depuis l’antiquité, on utilise des cendres pour créer des savons et faire des lessives. Il y a 2500 ans, les sumériens mélangeaient des cendres avec de l’argile et de l’huile végétale pour fabriquer leur pâte à savon. Les égyptiens eux utilisaient le natron - un minéral composé de carbonate de sodium et de bicarbonate de sodium issu de l'évaporation des lacs salés – qu’ils mélangeaient avec des cendres, de l'argile et de l’huile. Quand à nos gaulois, ils fabriquaient du savon à base de cendres de hêtre et du suif de chèvre. Bref une lessive naturelle et peu onéreuse dont nos grands-mères et leurs petits-enfants s’échangent aujourd’hui les recettes.</br> <span> Innovation présentée </span> </br> Créé par une équipe de spécialistes et de consultants des industries créatives liégeoises, MYDO est une sorte de LEGO® dédié à la construction d’objets et meubles de décoration.  Un produit 100% modulaire, design et pratique (montage et démontage sans le moindre outil). Les pièces sont réalisées en plastique injecté, un matériau solide, résistant à l’eau et également recyclable. Et pour rendre le concept innovant, les concepteurs y ont ajouté la possibilité de disposer de blocs de couleurs différentes et d’y intégrer des leds. Les plans proposés sont une base. Chaque utilisateur peut ainsi personnaliser ses objets de décoration en fonction de son intérieur et de ses contraintes, laisser libre cours à sa créativité sans la moindre limite. MyDo est donc un produit facile à monter et à démonter par simple clipsage. Il sera bientôt disponible sur Amazon.",
+        "lien":"innovation.html?id=10"
+    },
+    {   "id" :"11",
+        "categorie":"Informatique",
+        "innovation" : "Tacite ",
+        "description" : "Une plateforme web qui simplifie la gestion administrative des arts de la scène",
+        "entreprise" : "Tacite SPRL ",
+        "innovateur" : "Jonathan Schoonbrood",
+        "rue" : "Boulevard Sauvenière, 118",
+        "localite":"4000 Liège",
+        "pays":"Belgique",
+        "telephone":"0472 02 76 85",
+        "site":"http://www.Tacite.be ",
+        "mail":"jonathan@tacite.be",
+        "miniature":"https://picsum.photos/id/40/350/280",
+        "photos" : [
+            {"src":"https://picsum.photos/id/40/350/280",
+            "alt":"une image",
+            "titre":"C'est l'image de Tacite"
+            },
+            {"src":"https://picsum.photos/id/64/350/280",
+            "alt":"une autre image",
+            "titre":"C'est l'autre image de Tacite"
+            } 
+        ],
+        "article":"<span> Contexte </span> </br>A chacun sa recette. Mais, depuis l’antiquité, on utilise des cendres pour créer des savons et faire des lessives. Il y a 2500 ans, les sumériens mélangeaient des cendres avec de l’argile et de l’huile végétale pour fabriquer leur pâte à savon. Les égyptiens eux utilisaient le natron - un minéral composé de carbonate de sodium et de bicarbonate de sodium issu de l'évaporation des lacs salés – qu’ils mélangeaient avec des cendres, de l'argile et de l’huile. Quand à nos gaulois, ils fabriquaient du savon à base de cendres de hêtre et du suif de chèvre. Bref une lessive naturelle et peu onéreuse dont nos grands-mères et leurs petits-enfants s’échangent aujourd’hui les recettes.</br> <span> Innovation présentée </span> </br> Créé par une équipe de spécialistes et de consultants des industries créatives liégeoises, MYDO est une sorte de LEGO® dédié à la construction d’objets et meubles de décoration.  Un produit 100% modulaire, design et pratique (montage et démontage sans le moindre outil). Les pièces sont réalisées en plastique injecté, un matériau solide, résistant à l’eau et également recyclable. Et pour rendre le concept innovant, les concepteurs y ont ajouté la possibilité de disposer de blocs de couleurs différentes et d’y intégrer des leds. Les plans proposés sont une base. Chaque utilisateur peut ainsi personnaliser ses objets de décoration en fonction de son intérieur et de ses contraintes, laisser libre cours à sa créativité sans la moindre limite. MyDo est donc un produit facile à monter et à démonter par simple clipsage. Il sera bientôt disponible sur Amazon.",
+        "lien":"innovation.html?id=11"
+    },
+    {   "id" :"12",
+        "categorie":"Sante",
+        "innovation" : "Tilman",
+        "description" : "Une association de curcuma et de boswellia pour des articulations en forme",
+        "entreprise" : "Tilman SA",
+        "innovateur" : "Gaëlle Delisse",
+        "rue" : "ZI Sud 15",
+        "localite":"5377 Baillonville ",
+        "pays":"Belgique",
+        "telephone":"084/320360 ",
+        "site":"http://www.flexofytol.be",
+        "mail":"gd@tilman.be",
+        "miniature":"https://picsum.photos/id/88/350/280",
+        "photos" : [
+            {"src":"https://picsum.photos/id/88/350/280",
+            "alt":"une image",
+            "titre":"C'est l'image de Tacite"
+            },
+            {"src":"https://picsum.photos/id/87/350/280",
+            "alt":"une autre image",
+            "titre":"C'est l'autre image de Tacite"
+            } 
+        ],
+        "article":"<span> Contexte </span> </br>A chacun sa recette. Mais, depuis l’antiquité, on utilise des cendres pour créer des savons et faire des lessives. Il y a 2500 ans, les sumériens mélangeaient des cendres avec de l’argile et de l’huile végétale pour fabriquer leur pâte à savon. Les égyptiens eux utilisaient le natron - un minéral composé de carbonate de sodium et de bicarbonate de sodium issu de l'évaporation des lacs salés – qu’ils mélangeaient avec des cendres, de l'argile et de l’huile. Quand à nos gaulois, ils fabriquaient du savon à base de cendres de hêtre et du suif de chèvre. Bref une lessive naturelle et peu onéreuse dont nos grands-mères et leurs petits-enfants s’échangent aujourd’hui les recettes.</br> <span> Innovation présentée </span> </br> Créé par une équipe de spécialistes et de consultants des industries créatives liégeoises, MYDO est une sorte de LEGO® dédié à la construction d’objets et meubles de décoration.  Un produit 100% modulaire, design et pratique (montage et démontage sans le moindre outil). Les pièces sont réalisées en plastique injecté, un matériau solide, résistant à l’eau et également recyclable. Et pour rendre le concept innovant, les concepteurs y ont ajouté la possibilité de disposer de blocs de couleurs différentes et d’y intégrer des leds. Les plans proposés sont une base. Chaque utilisateur peut ainsi personnaliser ses objets de décoration en fonction de son intérieur et de ses contraintes, laisser libre cours à sa créativité sans la moindre limite. MyDo est donc un produit facile à monter et à démonter par simple clipsage. Il sera bientôt disponible sur Amazon.",
+        "lien":"innovation.html?id=12"
     }
     
 ]
-
