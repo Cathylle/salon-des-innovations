@@ -683,7 +683,7 @@ width:168px;
     text-shadow: 2px 2px 3px black;
 }
 .categoriesBox:hover .btn_fake{
-    background-image: url(img/btn_FullFill.svg);
+    background-image: url(img/btn_fullFill.svg);
 }
 .categoriesBox:hover p{
     color: #004181;
