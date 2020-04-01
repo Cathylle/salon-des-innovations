@@ -1557,7 +1557,7 @@ height:72px;
     cursor: pointer;
 }
 .btnMax_blanc:hover{
-    background-image: url(img/btnMax_fullFill.svg);
+    background-image: url(img/btnMax_FullFill.svg);
     color: #004181;  
 }
 .footerBox form{
