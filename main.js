@@ -312,7 +312,7 @@ function scroll(){
 	
 	if(categorieanim.top < window.innerHeight && categorieanim.bottom >= 0) {
 		$('#categorieanim').classList.remove('noshow');
-        $('#categorieanim').classList.add('slide');
+        $('#categorieanim').classList.add('show');
     }
 
     if(tpos.top < window.innerHeight && tpos.bottom >= 0 ) {
@@ -357,7 +357,7 @@ function scroll(){
 	}
 	
 	if(categorieanim.top >= window.innerHeight || categorieanim.bottom < 0) {
-		$('#categorieanim').classList.remove('slide');
+		$('#categorieanim').classList.remove('show');
 		$('#categorieanim').classList.add('noshow');
     }
     if(tpos.top >= window.innerHeight || tpos.bottom < 0 ) {
