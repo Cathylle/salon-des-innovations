@@ -151,7 +151,7 @@ function votefunction(){
     if(checkvote.checked==true){
         if(Voteid.value.includes("@")){
             Voteid.value="";
-            Voteid.placeholder=("Vous êtes inscrit!");
+            Voteid.placeholder=("Merci pour votre vote!");
             checkboxvoter.style="color:#004181;"
             Voteid.checked=false
         }
